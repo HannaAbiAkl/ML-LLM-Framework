@@ -1,8 +1,8 @@
 # ML-LLM-Framework
 A ML-LLM framework for constructing a data augmentation pipeline by LLM-prompting.
 
-This is the official code repository for the [IRSE@FIRE 2023](https://sites.google.com/view/irse2023/home) track paper: "A ML-LLM pairing for better code comment
-classification".
+This is the official code repository for the [IRSE@FIRE 2023](https://sites.google.com/view/irse2023/home) track paper: ["A ML-LLM pairing for better code comment
+classification"](https://arxiv.org/abs/2310.10275).
 
 ## Data
 This directory contains two data files:
